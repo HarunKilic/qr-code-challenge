@@ -4,7 +4,7 @@ function App() {
       <div className="max-w-[320px] bg-white p-4 rounded-[20px] drop-shadow-[0_25px_25px_rgba(0,0,0,0.0477)]">
         <div className="rounded-[10px] overflow-hidden">
           <img
-            src="/image-qr-code.png"
+            src="image-qr-code.png"
             alt="Frontend Mentor"
           />
         </div>
